@@ -1,0 +1,227 @@
+.kotak1{
+  width:160px;
+  height:100px;
+  background-color:purple;
+  margin-bottom:10px;
+}
+
+.kotak2{
+  width:740px;
+  height:100px;
+  background-color:orange;
+  float:left;
+  margin-left:170px;
+  margin-top:-110px;
+}
+
+.kotak3{
+  width:160px;
+  height:100px;
+  background-color:purple;
+  float:left;
+  margin-top:-110px;
+  margin-left:920px;
+}
+
+.kotak4{
+  width:1080px;
+  height:45px;
+  background-color:darkred;
+  float:left;
+  margin-bottom:10px;
+}
+
+.kotak5{
+  width:160px;
+  height:490px;
+  background-color:teal;
+  float:left;
+  margin-bottom:10px;
+}
+
+.kotak6{
+  width:160px;
+  height:290px;
+  background-color:teal;
+  float:left;
+  margin-left:-160px;
+  margin-top:505px;
+}
+  
+.kotak7{
+  width:740px;
+  height:795px;
+  background-color:black;
+  float:left;
+  margin-left:10px;
+}
+
+.kotak7a{
+  width:700px;
+  height:300px;
+  background-color:grey;
+  float:left;
+  margin-left:20px;
+  margin-top:20px;
+}
+
+.kotak7b{
+  width:220px;
+  height:120px;
+  background-color:white;
+  float:left;
+  margin-left:20px;
+  margin-top:20px;
+}
+
+.kotak7c{
+   width:220px;
+  height:120px;
+  background-color:white;
+  float:left;
+  margin-left:20px;
+  margin-top:20px;
+}
+
+.kotak7d{
+   width:220px;
+  height:120px;
+  background-color:white;
+  float:left;
+  margin-left:20px;
+  margin-top:20px;
+}
+
+.kotak7e{
+  width:700px;
+  height:300px;
+  background-color:grey;
+  float:left;
+  margin-left:20px;
+  margin-top:20px;
+}
+
+.kotak8{
+  width:160px;
+  height:490px;
+  background-color:teal;
+  float:right;
+  margin-top:-460px;
+  margin-right:-170px;
+}
+
+.kotak9{
+  width:160px;
+  height:290px;
+  background-color:teal;
+  float:right;
+  margin-top:45px;
+  margin-right:-170px;
+}
+
+.kotak10{
+  width:1080px;
+  height:120px;
+  background-color:firebrick;
+  float:left;
+  margin-top:30px;
+  margin-left:-170px;
+}
+
+.kotak10a{
+  width:168px;
+  height:100px;
+  background-color:pink;
+  float:left;
+  margin-left:10px;
+  margin-top:10px;
+}
+
+.kotak10b{
+  width:168px;
+  height:100px;
+  background-color:pink;
+  float:left;
+  margin-left:10px;
+  margin-top:10px;
+}
+
+.kotak10c{
+  width:168px;
+  height:100px;
+  background-color:pink;
+  float:left;
+  margin-left:10px;
+  margin-top:10px;
+}
+
+.kotak10d{
+  width:168px;
+  height:100px;
+  background-color:pink;
+  float:left;
+  margin-left:10px;
+  margin-top:10px;
+}
+
+.kotak10e{
+  width:168px;
+  height:100px;
+  background-color:pink;
+  float:left;
+  margin-left:10px;
+  margin-top:10px;
+}
+
+.kotak10f{
+  width:168px;
+  height:100px;
+  background-color:pink;
+  float:left;
+  margin-left:10px;
+  margin-top:10px;
+}
+
+.kotak11{
+  width:1085px;
+  height:200px;
+  background-color:darkolivegreen;
+  float:left;
+  margin-top:30px;
+}
+
+.kotak11a{
+  width:345px;
+  height:80px;
+  background-color:gold;
+  float:left;
+  margin-left:10px;
+  margin-top:10px;
+}
+
+.kotak11b{
+  width:230px;
+  height:180px;
+  background-color:gold;
+  float:left;
+  margin-left:10px;
+  margin-top:10px;
+}
+
+.kotak11c{
+  width:230px;
+  height:180px;
+  background-color:gold;
+  float:left;
+  margin-left:10px;
+  margin-top:10px;
+}
+
+.kotak11d{
+  width:230px;
+  height:180px;
+  background-color:gold;
+  float:left;
+  margin-left:10px;
+  margin-top:10px;
+}
